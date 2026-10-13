@@ -4,13 +4,13 @@ Windows 本机工具，用于从者与羁绊加成礼装条件匹配、固定队
 
 ## 下载与启动
 
-[下载轻量启动包](https://github.com/Asairiina/fgo-bond-planner/releases/latest/download/fgo-bond-planner-lite.zip) · [版本与更新说明](https://github.com/Asairiina/fgo-bond-planner/releases/latest)
+[下载完整免安装包](https://github.com/Asairiina/fgo-bond-planner/releases/latest/download/fgo-bond-planner-windows-x64.zip) · [版本与更新说明](https://github.com/Asairiina/fgo-bond-planner/releases/latest)
 
 1. 完整解压到自己有写入权限的独立文件夹。
-2. 双击 `启动助手.exe`。首次使用联网下载运行环境、应用程序及初始数据库，之后浏览器自动打开本机页面。
-3. 首次初始化使用 Windows 系统代理；网络失败时重新启动可复用已经完成的组件。
+2. 双击 `启动助手.exe`。已内置运行环境、应用程序及初始数据库，浏览器直接打开本机页面，无需首次联网初始化。
+3. 保留包内全部文件和目录；卡面图片通过页面顶部按钮按需下载。
 
-仅支持 Windows x64，启动器依赖 Windows .NET Framework 4.5 或更高版本。无需另装 Python、登录 GitHub 或维护服务器。初始化后可以离线计算。
+仅支持 Windows x64，启动器依赖 Windows .NET Framework 4.5 或更高版本。无需另装 Python、登录 GitHub 或维护服务器。首次启动即可离线计算。
 
 ## 后续更新
 
